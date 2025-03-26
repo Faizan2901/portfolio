@@ -1,6 +1,6 @@
 [build]
   command = "ng build --configuration production"
-  publish = "dist/portfolio" # Adjust based on your Angular project name
+  publish = "dist/portfolio/browser" # Adjust based on your Angular project name
 
 [context.production]
   environment = { NODE_VERSION = "18" } # Specify Node.js version if needed
