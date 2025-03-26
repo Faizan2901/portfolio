@@ -1,0 +1,56 @@
+.hero {
+    padding: 120px 0;
+    display: flex;
+    align-items: center;
+    background-color: #111;
+    color: white;
+  }
+  
+  .intro-text {
+    font-size: 1.2rem;
+    color: #00ff9c;
+    font-weight: 600;
+  }
+  
+  .hero-name {
+    font-size: 4rem;
+    font-weight: bold;
+    line-height: 1.2;
+  }
+  
+  .hero-subtitle {
+    font-size: 1.5rem;
+    color: #00ff9c;
+    font-weight: 600;
+  }
+  
+  .hero-description {
+    font-size: 1rem;
+    margin-bottom: 20px;
+  }
+  
+  .btn-hire {
+    background: #00ff9c;
+    color: #111;
+    padding: 12px 20px;
+    border-radius: 25px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: 0.3s;
+  }
+  
+  .btn-hire:hover {
+    background: #f8b400;
+    color: white;
+  }
+  
+  .hero-image {
+    width: 250px;
+    height: auto;
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2);
+  }
+  
+  

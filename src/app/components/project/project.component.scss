@@ -1,0 +1,61 @@
+.projects-section {
+    background-color: #111;
+    color: white;
+    padding: 100px 0;
+    text-align: center;
+    min-height: 100vh;
+  }
+  
+  .section-title {
+    font-size: 3rem;
+    font-weight: bold;
+    margin-bottom: 30px;
+  }
+  
+  .project-card {
+    background: #222;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px auto;
+    max-width: 700px;
+    text-align: left;
+    box-shadow: 0px 5px 15px rgba(0, 255, 156, 0.2);
+  }
+  
+  .project-title {
+    font-size: 1.8rem;
+    font-weight: bold;
+  }
+  
+  .project-time {
+    font-size: 1rem;
+    color: #00ff9c;
+    font-weight: bold;
+  }
+  
+  .project-description {
+    font-size: 1rem;
+    margin-bottom: 10px;
+  }
+  
+  .project-tech {
+    font-size: 0.9rem;
+    color: #ccc;
+    margin-bottom: 15px;
+  }
+  
+  .btn-github {
+    background: #00ff9c;
+    color: #111;
+    padding: 10px 15px;
+    border-radius: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    transition: 0.3s ease-in-out;
+  }
+  
+  .btn-github:hover {
+    background: #f8b400;
+    color: white;
+  }
+  
